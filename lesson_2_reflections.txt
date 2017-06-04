@@ -5,3 +5,7 @@ me create a space to save our commits. We need it to save our history.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 files in staging area are not final.  It is valuable because in helps us to specify which files we want to add to the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+we can chech whats in the commit.
