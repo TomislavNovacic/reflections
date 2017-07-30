@@ -8,4 +8,4 @@ because maybe the current update isnit working like it suppoused to.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-Fork is used to clone a repository from one GitHub acc to another without first cloning it to your local computer. Clone is used to clone a repository from GitHub to your local computer, or locally from one place to another. Branches are used inside single repository, it is used for gathering different features in appliction.
+Fork is used to clone a repository from one GitHub acc to another without first cloning it to your local computer. Clone is used to clone a repository from GitHub to your local computer, or locally from one place to another. Branches are used inside single repository, it is used for gathering different features in appliction..
