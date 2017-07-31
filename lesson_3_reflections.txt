@@ -13,3 +13,7 @@ Fork is used to clone a repository from one GitHub acc to another without first 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 We can inspect the code offline, and see what changes were made.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use e-mail and it would be much harder.
